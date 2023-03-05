@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#C:/Users/donad/Downloads/parkeasy-master/parkeasy-master/fare.py</OriginalElement>
+  <nodes>
+    <node x="318.9999999999999" y="0.0">typing.Hashable</node>
+    <node x="246.38235294117646" y="70.96946564885502">object</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="object" target="typing.Hashable" relationship="INTERFACE">
+      <point x="-2.8421709430404007E-14" y="-280.5" />
+      <point x="380.38235294117646" y="79.0" />
+      <point x="390.4999999999999" y="79.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.48698884758364314" showDependencies="false" x="511.0" y="559.8282442748091" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+</Diagram>
+
