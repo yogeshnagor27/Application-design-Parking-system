@@ -1,4 +1,4 @@
-## Vehicle Parking Management Web Application
+## Vehicle Parking Management Web Application Embedded Security
 
 ## Description:
 This project involves the development of a web application using Angular and MEAN Stack technologies to manage vehicle parking in a garage. The application allows users to interact with their parking details and slot numbers, add vehicle records, manage vehicle parking, view parking history, separate two-wheelers and four-wheelers, and view transaction details. Additionally, the application provides error handling and a responsive design for various breakpoints.
